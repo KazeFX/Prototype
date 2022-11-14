@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Proto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Proto_jar</output-path>
+    <root id="archive" name="Proto.jar">
+      <element id="module-output" name="Proto" />
+    </root>
+  </artifact>
+</component>
