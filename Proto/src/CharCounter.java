@@ -1,3 +1,5 @@
+// A counter for Chars stream! :D
+
 import java.awt.event.*;
 import javax.swing.*;
 public class CharCounter {
